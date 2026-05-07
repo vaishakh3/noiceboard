@@ -33,9 +33,9 @@ test("rendered SVG escapes unsafe profile text", () => {
   assert.match(svg, /repo &amp; readme/);
 });
 
-test("profile snippet points to the raw SVG and GitHub Pages board", () => {
+test("profile snippet points to the raw SVG and GitHub repo", () => {
   const snippet = renderProfileSnippet("vaishakh3", "noiceboard");
 
   assert.match(snippet, /raw\.githubusercontent\.com\/vaishakh3\/noiceboard\/main\/data\/noiceboard\.svg/);
-  assert.match(snippet, /vaishakh3\.github\.io\/noiceboard/);
+  assert.match(snippet, /github\.com\/vaishakh3\/noiceboard/);
 });

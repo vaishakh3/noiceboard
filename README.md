@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://vaishakh3.github.io/noiceboard/">
+  <a href="https://github.com/vaishakh3/noiceboard">
     <img src="https://raw.githubusercontent.com/vaishakh3/noiceboard/main/data/noiceboard.svg" width="960" alt="Noiceboard GitHub profile dashboard for vaishakh3" />
   </a>
 </div>
@@ -17,7 +17,7 @@ Noiceboard ships two things:
 
 ```md
 <div align="center">
-  <a href="https://vaishakh3.github.io/noiceboard/">
+  <a href="https://github.com/vaishakh3/noiceboard">
     <img src="https://raw.githubusercontent.com/vaishakh3/noiceboard/main/data/noiceboard.svg" width="960" alt="Noiceboard GitHub profile dashboard for vaishakh3" />
   </a>
 </div>
@@ -36,7 +36,7 @@ Then open `http://localhost:4173`.
 ## Live Refresh
 
 The included GitHub Action refreshes `data/noiceboard.svg`, `data/stats.json`, and `data/profile-snippet.md` every 12 hours, on push, and on manual dispatch.
-Another workflow deploys the static dashboard to GitHub Pages on every push to `main`.
+Another workflow deploys the static dashboard to GitHub Pages on every push to `main`. If your GitHub Pages user domain is mapped elsewhere, keep the profile card linked to this repository until the Pages route is pointed at the right host.
 
 For another account, set these environment variables before generation:
 

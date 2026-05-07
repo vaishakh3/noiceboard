@@ -302,10 +302,10 @@ export function renderSvg(stats, options = {}) {
 
 export function renderProfileSnippet(username = DEFAULT_USER, repoName = DEFAULT_REPO) {
   const raw = `https://raw.githubusercontent.com/${username}/${repoName}/main/data/noiceboard.svg`;
-  const pages = `https://${username}.github.io/${repoName}/`;
+  const repo = `https://github.com/${username}/${repoName}`;
 
   return `<div align="center">
-  <a href="${pages}">
+  <a href="${repo}">
     <img src="${raw}" width="960" alt="Noiceboard GitHub profile dashboard for ${username}" />
   </a>
 </div>`;

@@ -259,7 +259,7 @@ function renderMiniSvg(stats) {
 
 function profileSnippet(username) {
   return `<div align="center">
-  <a href="https://${username}.github.io/${DEFAULT_REPO}/">
+  <a href="https://github.com/${username}/${DEFAULT_REPO}">
     <img src="https://raw.githubusercontent.com/${username}/${DEFAULT_REPO}/main/data/noiceboard.svg" width="960" alt="Noiceboard GitHub profile dashboard for ${username}" />
   </a>
 </div>`;
