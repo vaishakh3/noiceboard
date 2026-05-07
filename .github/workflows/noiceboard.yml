@@ -1,0 +1,47 @@
+name: Refresh Noiceboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test
+        run: npm test
+
+      - name: Generate Noiceboard
+        run: npm run generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          NICE_REPO: noiceboard
+          REPO_ORDINAL: "69"
+          NOICEBOARD_STRICT: "1"
+
+      - name: Commit generated board
+        run: |
+          if ! git diff --quiet -- data/noiceboard.svg data/stats.json data/profile-snippet.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/noiceboard.svg data/stats.json data/profile-snippet.md
+            git commit -m "Refresh noiceboard"
+            git push
+          fi

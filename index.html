@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#07130e" />
+    <title>Noiceboard</title>
+    <meta
+      name="description"
+      content="A noice embeddable GitHub profile dashboard for repo number 69."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">GitHub profile signal</p>
+          <h1 id="page-title">Noiceboard</h1>
+          <p class="lede">A living SVG badge and dashboard for the repo that had to be noice.</p>
+
+          <form class="lookup" id="lookupForm">
+            <label class="sr-only" for="usernameInput">GitHub username</label>
+            <input id="usernameInput" name="username" autocomplete="off" spellcheck="false" value="vaishakh3" />
+            <button type="submit">Load</button>
+          </form>
+
+          <div class="quick-actions" aria-label="Noiceboard actions">
+            <button type="button" id="copyButton">Copy profile embed</button>
+            <a class="button-link" id="svgLink" href="data/noiceboard.svg">Open SVG</a>
+          </div>
+        </div>
+
+        <div class="stage" aria-label="Noiceboard preview">
+          <div class="stage-grid" aria-hidden="true"></div>
+          <img id="cardPreview" src="data/noiceboard.svg" alt="Noiceboard SVG preview" />
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="GitHub metrics">
+        <div>
+          <span id="repoCount">69</span>
+          <small>repos</small>
+        </div>
+        <div>
+          <span id="starCount">69</span>
+          <small>stars</small>
+        </div>
+        <div>
+          <span id="forkCount">0</span>
+          <small>forks</small>
+        </div>
+        <div>
+          <span id="activeCount">0</span>
+          <small>active this year</small>
+        </div>
+      </section>
+
+      <section class="workspace" aria-label="Noiceboard details">
+        <div class="embed-panel">
+          <div class="section-heading">
+            <p class="eyebrow">Profile embed</p>
+            <h2>README-ready</h2>
+          </div>
+          <pre id="embedSnippet"></pre>
+        </div>
+
+        <div class="signal-panel">
+          <div class="section-heading">
+            <p class="eyebrow">Repo #69</p>
+            <h2 id="niceRepoTitle">noiceboard</h2>
+          </div>
+          <p id="niceRepoDescription">A noice embeddable GitHub profile dashboard.</p>
+          <div id="languageList" class="language-list"></div>
+        </div>
+      </section>
+
+      <section class="repo-flow" aria-labelledby="topReposHeading">
+        <div class="section-heading">
+          <p class="eyebrow">Top signal</p>
+          <h2 id="topReposHeading">Repos with pull</h2>
+        </div>
+        <div id="topRepos" class="repo-list"></div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
