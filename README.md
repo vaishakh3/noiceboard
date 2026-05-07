@@ -36,6 +36,7 @@ Then open `http://localhost:4173`.
 ## Live Refresh
 
 The included GitHub Action refreshes `data/noiceboard.svg`, `data/stats.json`, and `data/profile-snippet.md` every 12 hours, on push, and on manual dispatch.
+Another workflow deploys the static dashboard to GitHub Pages on every push to `main`.
 
 For another account, set these environment variables before generation:
 
