@@ -56,11 +56,11 @@
     <text class="label" x="0" y="0">NOICEBOARD / vaishakh3</text>
     <text class="title" x="0" y="52">Vaishakh Suresh</text>
     <text class="subtitle" x="0" y="86">Repo #69 went noice: noiceboard</text>
-    <text class="muted" x="0" y="112">Waiting for the noice launch.</text>
+    <text class="muted" x="0" y="112">A noice little dashboard for the profile.</text>
 
     <g transform="translate(0 158)">
       <g transform="translate(0 0)">
-    <text class="metric" x="0" y="0">64</text>
+    <text class="metric" x="0" y="0">65</text>
     <text class="metric-label" x="0" y="22">public repos</text>
   </g>
       <g transform="translate(112 0)">
@@ -72,7 +72,7 @@
     <text class="metric-label" x="0" y="22">forks</text>
   </g>
       <g transform="translate(336 0)">
-    <text class="metric" x="0" y="0">12</text>
+    <text class="metric" x="0" y="0">13</text>
     <text class="metric-label" x="0" y="22">active in 2026</text>
   </g>
     </g>
@@ -88,14 +88,14 @@
       <g transform="translate(0 47)">
         <text class="muted" x="0" y="0">JavaScript</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="63" height="8" rx="4" fill="#f6c945"/>
-        <text class="tiny" x="366" y="0">27%</text>
+        <rect x="118" y="-10" width="66" height="8" rx="4" fill="#f6c945"/>
+        <text class="tiny" x="366" y="0">28%</text>
       </g>
       <g transform="translate(0 70)">
         <text class="muted" x="0" y="0">TypeScript</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="37" height="8" rx="4" fill="#69d2e7"/>
-        <text class="tiny" x="366" y="0">16%</text>
+        <rect x="118" y="-10" width="35" height="8" rx="4" fill="#69d2e7"/>
+        <text class="tiny" x="366" y="0">15%</text>
       </g>
       <g transform="translate(0 93)">
         <text class="muted" x="0" y="0">Python</text>
