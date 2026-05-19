@@ -64,7 +64,7 @@
     <text class="metric-label" x="0" y="22">public repos</text>
   </g>
       <g transform="translate(112 0)">
-    <text class="metric" x="0" y="0">4</text>
+    <text class="metric" x="0" y="0">5</text>
     <text class="metric-label" x="0" y="22">stars</text>
   </g>
       <g transform="translate(224 0)">
@@ -177,7 +177,7 @@
   </g>
 
   <g transform="translate(568 384)">
-    <text class="tiny" x="0" y="0">Generated May 18, 2026.</text>
+    <text class="tiny" x="0" y="0">Generated May 19, 2026.</text>
     <text class="tiny" x="326" y="0" text-anchor="end">Open the repo for the full board.</text>
   </g>
 
