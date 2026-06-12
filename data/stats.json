@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T05:02:51.408Z",
+  "generatedAt": "2026-06-12T15:39:16.125Z",
   "repoOrdinal": 69,
   "targetRepoName": "noiceboard",
   "user": {
@@ -8,15 +8,15 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/72205266?v=4",
     "htmlUrl": "https://github.com/vaishakh3",
     "bio": "",
-    "publicRepos": 66
+    "publicRepos": 67
   },
   "totals": {
-    "repos": 66,
+    "repos": 67,
     "stars": 5,
     "forks": 5,
     "openIssues": 0,
     "archived": 0,
-    "activeThisYear": 16
+    "activeThisYear": 17
   },
   "niceRepo": {
     "name": "noiceboard",
@@ -27,7 +27,7 @@
     "forks": 0,
     "openIssues": 0,
     "createdAt": "2026-05-07T09:54:45Z",
-    "pushedAt": "2026-06-11T16:20:21Z",
+    "pushedAt": "2026-06-12T05:02:52Z",
     "archived": false,
     "fork": false,
     "ordinal": 69,
@@ -48,14 +48,14 @@
     },
     {
       "name": "TypeScript",
-      "count": 11,
-      "percentage": 17,
+      "count": 12,
+      "percentage": 18,
       "color": "#69d2e7"
     },
     {
       "name": "Python",
       "count": 9,
-      "percentage": 14,
+      "percentage": 13,
       "color": "#4f9dff"
     },
     {
@@ -73,13 +73,13 @@
     {
       "name": "Jupyter Notebook",
       "count": 1,
-      "percentage": 2,
+      "percentage": 1,
       "color": "#ff6b4a"
     },
     {
       "name": "Rust",
       "count": 1,
-      "percentage": 2,
+      "percentage": 1,
       "color": "#e58f65"
     }
   ],
@@ -150,20 +150,33 @@
       "fork": false
     },
     {
-      "name": "noiceboard",
+      "name": "build-in-motion",
       "description": "",
-      "url": "https://github.com/vaishakh3/noiceboard",
-      "language": "JavaScript",
+      "url": "https://github.com/vaishakh3/build-in-motion",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "createdAt": "2026-05-07T09:54:45Z",
-      "pushedAt": "2026-06-11T16:20:21Z",
+      "createdAt": "2026-06-12T11:46:46Z",
+      "pushedAt": "2026-06-12T12:16:57Z",
       "archived": false,
       "fork": false
     }
   ],
   "freshestRepos": [
+    {
+      "name": "build-in-motion",
+      "description": "",
+      "url": "https://github.com/vaishakh3/build-in-motion",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "createdAt": "2026-06-12T11:46:46Z",
+      "pushedAt": "2026-06-12T12:16:57Z",
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "noiceboard",
       "description": "",
@@ -173,7 +186,7 @@
       "forks": 0,
       "openIssues": 0,
       "createdAt": "2026-05-07T09:54:45Z",
-      "pushedAt": "2026-06-11T16:20:21Z",
+      "pushedAt": "2026-06-12T05:02:52Z",
       "archived": false,
       "fork": false
     },
@@ -228,19 +241,6 @@
       "pushedAt": "2026-04-29T14:04:54Z",
       "archived": false,
       "fork": true
-    },
-    {
-      "name": "participantreview",
-      "description": "",
-      "url": "https://github.com/vaishakh3/participantreview",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "createdAt": "2026-04-16T11:29:30Z",
-      "pushedAt": "2026-04-16T19:57:12Z",
-      "archived": false,
-      "fork": false
     }
   ],
   "constellation": [
@@ -333,137 +333,137 @@
       "opacity": 0.72
     },
     {
-      "name": "chakravyuha",
-      "x": 96,
-      "y": 200,
+      "name": "build-in-motion",
+      "x": 51,
+      "y": 214,
       "r": 3,
-      "color": "#ff6b4a",
+      "color": "#69d2e7",
+      "opacity": 0.72
+    },
+    {
+      "name": "chakravyuha",
+      "x": 88,
+      "y": 188,
+      "r": 3,
+      "color": "#f6c945",
       "opacity": 0.72
     },
     {
       "name": "codex-goblinmode",
-      "x": 59,
-      "y": 199,
+      "x": 52,
+      "y": 180,
       "r": 3,
       "color": "#e58f65",
       "opacity": 0.72
     },
     {
       "name": "derbeste_stories",
-      "x": 79,
-      "y": 160,
+      "x": 82,
+      "y": 146,
       "r": 3,
       "color": "#f6c945",
       "opacity": 0.72
     },
     {
       "name": "destiny",
-      "x": 67,
-      "y": 151,
+      "x": 74,
+      "y": 135,
       "r": 3,
       "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "destiny-useless",
-      "x": 49,
-      "y": 130,
+      "x": 62,
+      "y": 111,
       "r": 3,
       "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "developer-roadmap",
-      "x": 75,
-      "y": 124,
+      "x": 88,
+      "y": 110,
       "r": 3,
       "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "dispatchai",
-      "x": 122,
-      "y": 120,
+      "x": 135,
+      "y": 114,
       "r": 3,
-      "color": "#f6c945",
+      "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "domqa",
-      "x": 120,
-      "y": 119,
+      "x": 134,
+      "y": 113,
       "r": 3,
       "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "fastn",
-      "x": 141,
-      "y": 92,
+      "x": 162,
+      "y": 90,
       "r": 3,
-      "color": "#d7fbe8",
+      "color": "#2de38c",
       "opacity": 0.72
     },
     {
       "name": "finalproject",
-      "x": 160,
-      "y": 70,
+      "x": 187,
+      "y": 72,
       "r": 3,
       "color": "#4f9dff",
       "opacity": 0.72
     },
     {
       "name": "finetunedmodel",
-      "x": 179,
-      "y": 75,
+      "x": 204,
+      "y": 80,
       "r": 3,
       "color": "#4f9dff",
       "opacity": 0.72
     },
     {
       "name": "fyp",
-      "x": 205,
-      "y": 100,
+      "x": 222,
+      "y": 109,
       "r": 3,
       "color": "#4f9dff",
       "opacity": 0.72
     },
     {
       "name": "FYPexperiments",
-      "x": 211,
-      "y": 91,
+      "x": 231,
+      "y": 101,
       "r": 3,
       "color": "#4f9dff",
       "opacity": 0.72
     },
     {
       "name": "FYPfrontend",
-      "x": 232,
-      "y": 112,
+      "x": 245,
+      "y": 125,
       "r": 3,
       "color": "#69d2e7",
       "opacity": 0.72
     },
     {
       "name": "Halo",
-      "x": 249,
-      "y": 130,
-      "r": 3,
-      "color": "#2de38c",
-      "opacity": 0.72
-    },
-    {
-      "name": "happenin",
-      "x": 237,
-      "y": 148,
+      "x": 256,
+      "y": 146,
       "r": 3,
       "color": "#ff6b4a",
       "opacity": 0.72
     },
     {
-      "name": "hogwarts",
-      "x": 216,
-      "y": 158,
+      "name": "happenin",
+      "x": 240,
+      "y": 161,
       "r": 3,
       "color": "#f6c945",
       "opacity": 0.72
@@ -471,8 +471,8 @@
   ],
   "cadence": {
     "firstRepo": "vaishakh3",
-    "latestRepo": "tysm",
+    "latestRepo": "build-in-motion",
     "oldestCreatedAt": "2022-05-06T09:30:34Z",
-    "latestCreatedAt": "2026-06-09T20:07:18Z"
+    "latestCreatedAt": "2026-06-12T11:46:46Z"
   }
 }
