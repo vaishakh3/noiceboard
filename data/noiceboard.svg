@@ -60,7 +60,7 @@
 
     <g transform="translate(0 158)">
       <g transform="translate(0 0)">
-    <text class="metric" x="0" y="0">68</text>
+    <text class="metric" x="0" y="0">69</text>
     <text class="metric-label" x="0" y="22">public repos</text>
   </g>
       <g transform="translate(112 0)">
@@ -72,7 +72,7 @@
     <text class="metric-label" x="0" y="22">forks</text>
   </g>
       <g transform="translate(336 0)">
-    <text class="metric" x="0" y="0">18</text>
+    <text class="metric" x="0" y="0">19</text>
     <text class="metric-label" x="0" y="22">active in 2026</text>
   </g>
     </g>
@@ -94,8 +94,8 @@
       <g transform="translate(0 70)">
         <text class="muted" x="0" y="0">TypeScript</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="42" height="8" rx="4" fill="#69d2e7"/>
-        <text class="tiny" x="366" y="0">18%</text>
+        <rect x="118" y="-10" width="40" height="8" rx="4" fill="#69d2e7"/>
+        <text class="tiny" x="366" y="0">17%</text>
       </g>
       <g transform="translate(0 93)">
         <text class="muted" x="0" y="0">Python</text>
