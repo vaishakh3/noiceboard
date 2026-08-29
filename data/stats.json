@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:03:34.244Z",
+  "generatedAt": "2026-08-29T16:42:42.033Z",
   "repoOrdinal": 69,
   "targetRepoName": "noiceboard",
   "user": {
@@ -8,15 +8,15 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/72205266?v=4",
     "htmlUrl": "https://github.com/vaishakh3",
     "bio": "",
-    "publicRepos": 77
+    "publicRepos": 78
   },
   "totals": {
-    "repos": 77,
+    "repos": 78,
     "stars": 5,
     "forks": 5,
     "openIssues": 0,
     "archived": 0,
-    "activeThisYear": 27
+    "activeThisYear": 28
   },
   "niceRepo": {
     "name": "noiceboard",
@@ -27,7 +27,7 @@
     "forks": 0,
     "openIssues": 0,
     "createdAt": "2026-05-07T09:54:45Z",
-    "pushedAt": "2026-08-28T22:18:50Z",
+    "pushedAt": "2026-08-29T07:03:35Z",
     "archived": false,
     "fork": false,
     "ordinal": 69,
@@ -41,16 +41,16 @@
       "color": "#2de38c"
     },
     {
+      "name": "TypeScript",
+      "count": 19,
+      "percentage": 24,
+      "color": "#69d2e7"
+    },
+    {
       "name": "JavaScript",
       "count": 18,
       "percentage": 23,
       "color": "#f6c945"
-    },
-    {
-      "name": "TypeScript",
-      "count": 18,
-      "percentage": 23,
-      "color": "#69d2e7"
     },
     {
       "name": "Python",
@@ -150,43 +150,43 @@
       "fork": false
     },
     {
-      "name": "noiceboard",
-      "description": "",
-      "url": "https://github.com/vaishakh3/noiceboard",
-      "language": "JavaScript",
+      "name": "nuvora",
+      "description": "Production-minded React and Node.js job portal with candidate discovery, hiring operations, secure auth, PostgreSQL, and full browser QA.",
+      "url": "https://github.com/vaishakh3/nuvora",
+      "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "createdAt": "2026-05-07T09:54:45Z",
-      "pushedAt": "2026-08-28T22:18:50Z",
+      "createdAt": "2026-08-29T16:05:59Z",
+      "pushedAt": "2026-08-29T16:21:53Z",
       "archived": false,
       "fork": false
     }
   ],
   "freshestRepos": [
     {
-      "name": "noiceboard",
-      "description": "",
-      "url": "https://github.com/vaishakh3/noiceboard",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "createdAt": "2026-05-07T09:54:45Z",
-      "pushedAt": "2026-08-28T22:18:50Z",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kochibuzz",
-      "description": "",
-      "url": "https://github.com/vaishakh3/kochibuzz",
+      "name": "nuvora",
+      "description": "Production-minded React and Node.js job portal with candidate discovery, hiring operations, secure auth, PostgreSQL, and full browser QA.",
+      "url": "https://github.com/vaishakh3/nuvora",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "createdAt": "2026-08-18T12:44:56Z",
-      "pushedAt": "2026-08-28T18:45:56Z",
+      "createdAt": "2026-08-29T16:05:59Z",
+      "pushedAt": "2026-08-29T16:21:53Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mitle",
+      "description": "",
+      "url": "https://github.com/vaishakh3/mitle",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "createdAt": "2026-08-08T19:25:29Z",
+      "pushedAt": "2026-08-29T15:58:17Z",
       "archived": false,
       "fork": false
     },
@@ -199,20 +199,33 @@
       "forks": 0,
       "openIssues": 0,
       "createdAt": "2026-08-27T17:16:07Z",
-      "pushedAt": "2026-08-27T20:40:53Z",
+      "pushedAt": "2026-08-29T15:32:19Z",
       "archived": false,
       "fork": false
     },
     {
-      "name": "meetcute",
+      "name": "kochibuzz",
       "description": "",
-      "url": "https://github.com/vaishakh3/meetcute",
+      "url": "https://github.com/vaishakh3/kochibuzz",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "createdAt": "2026-08-08T19:25:29Z",
-      "pushedAt": "2026-08-23T20:10:48Z",
+      "createdAt": "2026-08-18T12:44:56Z",
+      "pushedAt": "2026-08-29T14:31:16Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "noiceboard",
+      "description": "",
+      "url": "https://github.com/vaishakh3/noiceboard",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "createdAt": "2026-05-07T09:54:45Z",
+      "pushedAt": "2026-08-29T07:03:35Z",
       "archived": false,
       "fork": false
     },
@@ -228,19 +241,6 @@
       "pushedAt": "2026-08-09T03:30:00Z",
       "archived": false,
       "fork": false
-    },
-    {
-      "name": "brew-book",
-      "description": "",
-      "url": "https://github.com/vaishakh3/brew-book",
-      "language": "Other",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "createdAt": "2026-07-27T06:20:26Z",
-      "pushedAt": "2026-07-27T06:36:31Z",
-      "archived": false,
-      "fork": true
     }
   ],
   "constellation": [
@@ -471,8 +471,8 @@
   ],
   "cadence": {
     "firstRepo": "vaishakh3",
-    "latestRepo": "dealfight",
+    "latestRepo": "nuvora",
     "oldestCreatedAt": "2022-05-06T09:30:34Z",
-    "latestCreatedAt": "2026-08-27T17:16:07Z"
+    "latestCreatedAt": "2026-08-29T16:05:59Z"
   }
 }

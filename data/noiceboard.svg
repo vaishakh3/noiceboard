@@ -60,7 +60,7 @@
 
     <g transform="translate(0 158)">
       <g transform="translate(0 0)">
-    <text class="metric" x="0" y="0">77</text>
+    <text class="metric" x="0" y="0">78</text>
     <text class="metric-label" x="0" y="22">public repos</text>
   </g>
       <g transform="translate(112 0)">
@@ -72,7 +72,7 @@
     <text class="metric-label" x="0" y="22">forks</text>
   </g>
       <g transform="translate(336 0)">
-    <text class="metric" x="0" y="0">27</text>
+    <text class="metric" x="0" y="0">28</text>
     <text class="metric-label" x="0" y="22">active in 2026</text>
   </g>
     </g>
@@ -86,15 +86,15 @@
         <text class="tiny" x="366" y="0">27%</text>
       </g>
       <g transform="translate(0 47)">
+        <text class="muted" x="0" y="0">TypeScript</text>
+        <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
+        <rect x="118" y="-10" width="56" height="8" rx="4" fill="#69d2e7"/>
+        <text class="tiny" x="366" y="0">24%</text>
+      </g>
+      <g transform="translate(0 70)">
         <text class="muted" x="0" y="0">JavaScript</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
         <rect x="118" y="-10" width="54" height="8" rx="4" fill="#f6c945"/>
-        <text class="tiny" x="366" y="0">23%</text>
-      </g>
-      <g transform="translate(0 70)">
-        <text class="muted" x="0" y="0">TypeScript</text>
-        <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="54" height="8" rx="4" fill="#69d2e7"/>
         <text class="tiny" x="366" y="0">23%</text>
       </g>
       <g transform="translate(0 93)">
