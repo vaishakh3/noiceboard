@@ -60,7 +60,7 @@
 
     <g transform="translate(0 158)">
       <g transform="translate(0 0)">
-    <text class="metric" x="0" y="0">79</text>
+    <text class="metric" x="0" y="0">80</text>
     <text class="metric-label" x="0" y="22">public repos</text>
   </g>
       <g transform="translate(112 0)">
@@ -72,7 +72,7 @@
     <text class="metric-label" x="0" y="22">forks</text>
   </g>
       <g transform="translate(336 0)">
-    <text class="metric" x="0" y="0">29</text>
+    <text class="metric" x="0" y="0">30</text>
     <text class="metric-label" x="0" y="22">active in 2026</text>
   </g>
     </g>
@@ -82,8 +82,8 @@
       <g transform="translate(0 24)">
         <text class="muted" x="0" y="0">Other</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="63" height="8" rx="4" fill="#2de38c"/>
-        <text class="tiny" x="366" y="0">27%</text>
+        <rect x="118" y="-10" width="61" height="8" rx="4" fill="#2de38c"/>
+        <text class="tiny" x="366" y="0">26%</text>
       </g>
       <g transform="translate(0 47)">
         <text class="muted" x="0" y="0">TypeScript</text>
@@ -135,12 +135,12 @@
     <line x1="131" y1="103" x2="137" y2="91" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
     <line x1="137" y1="91" x2="154" y2="68" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
     <line x1="154" y1="68" x2="171" y2="84" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="171" y1="84" x2="196" y2="115" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="196" y1="115" x2="197" y2="114" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="197" y1="114" x2="237" y2="116" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="237" y1="116" x2="270" y2="121" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="270" y1="121" x2="273" y2="136" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
-    <line x1="273" y1="136" x2="256" y2="165" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="171" y1="84" x2="211" y2="106" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="211" y1="106" x2="209" y2="122" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="209" y1="122" x2="210" y2="121" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="210" y1="121" x2="249" y2="130" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="249" y1="130" x2="280" y2="140" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
+    <line x1="280" y1="140" x2="278" y2="156" stroke="#5c7e68" stroke-opacity="0.24" stroke-width="1" class="draw"/>
     <circle cx="224" cy="178" r="4" fill="#f6c945" opacity="0.72" class="pulse"/>
     <circle cx="227" cy="191" r="4" fill="#69d2e7" opacity="0.72" class=""/>
     <circle cx="262" cy="206" r="4" fill="#69d2e7" opacity="0.72" class=""/>
@@ -163,12 +163,12 @@
     <circle cx="137" cy="91" r="3" fill="#69d2e7" opacity="0.72" class=""/>
     <circle cx="154" cy="68" r="3" fill="#69d2e7" opacity="0.72" class=""/>
     <circle cx="171" cy="84" r="3" fill="#69d2e7" opacity="0.72" class="pulse"/>
-    <circle cx="196" cy="115" r="3" fill="#f6c945" opacity="0.72" class=""/>
-    <circle cx="197" cy="114" r="3" fill="#69d2e7" opacity="0.72" class=""/>
-    <circle cx="237" cy="116" r="3" fill="#d7fbe8" opacity="0.72" class="pulse"/>
-    <circle cx="270" cy="121" r="3" fill="#4f9dff" opacity="0.72" class=""/>
-    <circle cx="273" cy="136" r="3" fill="#4f9dff" opacity="0.72" class=""/>
-    <circle cx="256" cy="165" r="3" fill="#4f9dff" opacity="0.72" class="pulse"/>
+    <circle cx="211" cy="106" r="3" fill="#ff7a59" opacity="0.72" class=""/>
+    <circle cx="209" cy="122" r="3" fill="#69d2e7" opacity="0.72" class=""/>
+    <circle cx="210" cy="121" r="3" fill="#69d2e7" opacity="0.72" class="pulse"/>
+    <circle cx="249" cy="130" r="3" fill="#2de38c" opacity="0.72" class=""/>
+    <circle cx="280" cy="140" r="3" fill="#4f9dff" opacity="0.72" class=""/>
+    <circle cx="278" cy="156" r="3" fill="#4f9dff" opacity="0.72" class="pulse"/>
     <g class="float">
       <circle cx="164" cy="164" r="39" fill="#0e261b" stroke="url(#accent)" stroke-width="2" filter="url(#softGlow)"/>
       <text x="164" y="155" fill="#f8fff9" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="900" letter-spacing="0">69</text>
@@ -177,7 +177,7 @@
   </g>
 
   <g transform="translate(568 384)">
-    <text class="tiny" x="0" y="0">Generated Sep 18, 2026.</text>
+    <text class="tiny" x="0" y="0">Generated Sep 19, 2026.</text>
     <text class="tiny" x="326" y="0" text-anchor="end">Open the repo for the full board.</text>
   </g>
 
