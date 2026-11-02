@@ -94,14 +94,14 @@
       <g transform="translate(0 70)">
         <text class="muted" x="0" y="0">JavaScript</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="49" height="8" rx="4" fill="#f6c945"/>
-        <text class="tiny" x="366" y="0">21%</text>
+        <rect x="118" y="-10" width="51" height="8" rx="4" fill="#f6c945"/>
+        <text class="tiny" x="366" y="0">22%</text>
       </g>
       <g transform="translate(0 93)">
         <text class="muted" x="0" y="0">Python</text>
         <rect x="118" y="-10" width="236" height="8" rx="4" fill="#1a3326"/>
-        <rect x="118" y="-10" width="30" height="8" rx="4" fill="#4f9dff"/>
-        <text class="tiny" x="366" y="0">13%</text>
+        <rect x="118" y="-10" width="28" height="8" rx="4" fill="#4f9dff"/>
+        <text class="tiny" x="366" y="0">12%</text>
       </g>
     </g>
   </g>
