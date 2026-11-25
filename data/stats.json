@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:25:19.451Z",
+  "generatedAt": "2026-11-25T08:31:43.536Z",
   "repoOrdinal": 69,
   "targetRepoName": "noiceboard",
   "user": {
@@ -8,15 +8,15 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/72205266?v=4",
     "htmlUrl": "https://github.com/vaishakh3",
     "bio": "",
-    "publicRepos": 85
+    "publicRepos": 86
   },
   "totals": {
-    "repos": 85,
+    "repos": 86,
     "stars": 5,
     "forks": 6,
     "openIssues": 2,
     "archived": 0,
-    "activeThisYear": 35
+    "activeThisYear": 36
   },
   "niceRepo": {
     "name": "noiceboard",
@@ -27,7 +27,7 @@
     "forks": 0,
     "openIssues": 0,
     "createdAt": "2026-05-07T09:54:45Z",
-    "pushedAt": "2026-11-24T09:52:58Z",
+    "pushedAt": "2026-11-24T22:25:20Z",
     "archived": false,
     "fork": false,
     "ordinal": 69,
@@ -43,7 +43,7 @@
     {
       "name": "Other",
       "count": 21,
-      "percentage": 25,
+      "percentage": 24,
       "color": "#ff6b4a"
     },
     {
@@ -66,8 +66,8 @@
     },
     {
       "name": "HTML",
-      "count": 4,
-      "percentage": 5,
+      "count": 5,
+      "percentage": 6,
       "color": "#ff7a59"
     },
     {
@@ -145,7 +145,7 @@
       "forks": 1,
       "openIssues": 1,
       "createdAt": "2026-08-18T12:44:56Z",
-      "pushedAt": "2026-11-24T21:17:23Z",
+      "pushedAt": "2026-11-25T04:20:10Z",
       "archived": false,
       "fork": false
     },
@@ -165,6 +165,19 @@
   ],
   "freshestRepos": [
     {
+      "name": "minimart",
+      "description": "minimart — resale listing site (iPhone 13 mini at ₹23,500, UPI payment). Static single page, ready for Vercel.",
+      "url": "https://github.com/vaishakh3/minimart",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "createdAt": "2026-11-25T06:54:01Z",
+      "pushedAt": "2026-11-25T06:57:04Z",
+      "archived": false,
+      "fork": false
+    },
+    {
       "name": "kochibuzz",
       "description": "",
       "url": "https://github.com/vaishakh3/kochibuzz",
@@ -173,7 +186,7 @@
       "forks": 1,
       "openIssues": 1,
       "createdAt": "2026-08-18T12:44:56Z",
-      "pushedAt": "2026-11-24T21:17:23Z",
+      "pushedAt": "2026-11-25T04:20:10Z",
       "archived": false,
       "fork": false
     },
@@ -186,7 +199,7 @@
       "forks": 0,
       "openIssues": 0,
       "createdAt": "2026-05-07T09:54:45Z",
-      "pushedAt": "2026-11-24T09:52:58Z",
+      "pushedAt": "2026-11-24T22:25:20Z",
       "archived": false,
       "fork": false
     },
@@ -226,19 +239,6 @@
       "openIssues": 0,
       "createdAt": "2026-10-23T20:46:42Z",
       "pushedAt": "2026-10-25T01:36:27Z",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "devinhacks",
-      "description": "",
-      "url": "https://github.com/vaishakh3/devinhacks",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "createdAt": "2026-09-18T18:56:16Z",
-      "pushedAt": "2026-10-20T07:40:16Z",
       "archived": false,
       "fork": false
     }
@@ -471,8 +471,8 @@
   ],
   "cadence": {
     "firstRepo": "vaishakh3",
-    "latestRepo": "hackathoni",
+    "latestRepo": "minimart",
     "oldestCreatedAt": "2022-05-06T09:30:34Z",
-    "latestCreatedAt": "2026-11-01T19:09:21Z"
+    "latestCreatedAt": "2026-11-25T06:54:01Z"
   }
 }
